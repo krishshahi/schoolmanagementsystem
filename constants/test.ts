@@ -1,0 +1,10 @@
+export const DROPDOWN = [
+	{
+		name: "test1",
+		value: "1",
+	},
+	{
+		name: "test2",
+		value: "2",
+	},
+];
